@@ -7,7 +7,7 @@
 [中文介绍](https://github.com/2635064692/image-downloader/blob/main/README.md)
 
 [English Introduction](https://github.com/2635064692/image-downloader/blob/main/README-en.md)
-## 功能介绍
+## Introduction
 - This tool supports image search on multiple search engines, including Google, Bing, Baidu, etc. (see the support roadmap for details).
 - Supports downloading high-quality images directly from Google’s original site, which can be applied to dataset collection for fields like machine learning and deep learning.
 - Retrieves original website links for the searched images and downloads images from the original sites.
@@ -22,7 +22,7 @@
     */
    ```
 
-## 支持计划
+## Support Plan
 
 - [ √ ] Google Image Search
 - [ ] Bing Image Search
