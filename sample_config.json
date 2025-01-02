@@ -1,0 +1,12 @@
+[
+  {
+    "keywords": "马路围栏损坏",
+    "limit": 10,
+    "sub_folder": "cn"
+  },
+  {
+    "keywords": "马路围栏损坏",
+    "limit": 5,
+    "sub_folder": "cn_v2"
+  }
+]
