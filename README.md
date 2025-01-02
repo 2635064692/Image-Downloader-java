@@ -3,6 +3,10 @@
 ---
 > 使用搜索引擎通过关键字下载相关图片，适用于深度学习、机器学习等数据集收集场景。
 
+[中文介绍](https://github.com/2635064692/image-downloader/blob/main/README.md)
+
+[English Introduction](https://github.com/2635064692/image-downloader/blob/main/README-en.md)
+
 ## 功能介绍
 - 本工具支持多种搜索引擎的图片搜索，包括 Google、Bing、Baidu 等（详见支持计划）。
 - 支持google搜索原始站点的清晰图片下载，能够用于机器学习、深度学习等领域数据集搜集的应用。
